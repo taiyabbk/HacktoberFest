@@ -1,0 +1,3 @@
+Hey folks!
+this repo contains basic java program codes
+do your valuable contibution here
